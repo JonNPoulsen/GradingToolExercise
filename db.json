@@ -1,0 +1,9 @@
+{
+    "students": [
+      {
+        "studentNo": "123",
+        "name": "Hans",
+        "grade": "-3"
+      }
+    ]
+}
